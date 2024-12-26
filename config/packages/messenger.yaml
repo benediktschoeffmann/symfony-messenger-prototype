@@ -1,0 +1,5 @@
+framework:
+    messenger:
+        routing:
+            # route all messages that extend this example base class or interface
+            # 'App\Message\AsyncMessageInterface': async
